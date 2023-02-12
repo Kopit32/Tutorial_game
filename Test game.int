@@ -1,0 +1,10 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+DIR: Sprites 
+AUTO_FILE_DIR: OFF
+MAP_ICON_TYPE: 0
+WINDOW: Sprites\turfs.dmi;Sprites\another_stuff.dmi;turfs.dm;Test game.dme;another_objects.dm;Test game.dm;mob.dm;Sprites\mobs.dmi;map.dmm
+FILE: mob.dm
+*/
+// END_INTERNALS
